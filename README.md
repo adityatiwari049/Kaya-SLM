@@ -64,6 +64,7 @@ happened. Together they searched high in a tall tree until they finally
 found their way home."
 
 ## Author
-Aditya | B.Tech CSE (Data Science) | Teerthanker Mahaveer University, 2027  
+Aditya | B.Tech CSE  | Teerthanker Mahaveer University, 2027  
 AI Engineer @ The Aghron Forum  
 GitHub: github.com/adityatiwari049
+Linkedin : https://www.linkedin.com/in/adityatiwaryman7/
